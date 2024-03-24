@@ -1,0 +1,5 @@
+Bill breakdown: 
+pie:                      ...$7.5 
+coffee:                   ...$3.99 
+tip:                      ...$30
+total:                    ...$41.49
